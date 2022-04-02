@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ibanity_openssl_directory_parser/1.0.0": {
+        "runtime": {
+          "Ibanity_openssl_directory_parser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ibanity_openssl_directory_parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

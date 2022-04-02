@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\bin\Debug\net6.0\Ibanity_openssl_directory_parser.exe
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\bin\Debug\net6.0\Ibanity_openssl_directory_parser.deps.json
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\bin\Debug\net6.0\Ibanity_openssl_directory_parser.runtimeconfig.json
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\bin\Debug\net6.0\Ibanity_openssl_directory_parser.dll
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\bin\Debug\net6.0\Ibanity_openssl_directory_parser.pdb
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\obj\Debug\net6.0\Ibanity_openssl_directory_parser.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\obj\Debug\net6.0\Ibanity_openssl_directory_parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\obj\Debug\net6.0\Ibanity_openssl_directory_parser.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\obj\Debug\net6.0\Ibanity_openssl_directory_parser.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\obj\Debug\net6.0\Ibanity_openssl_directory_parser.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\obj\Debug\net6.0\Ibanity_openssl_directory_parser.dll
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\obj\Debug\net6.0\refint\Ibanity_openssl_directory_parser.dll
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\obj\Debug\net6.0\Ibanity_openssl_directory_parser.pdb
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\obj\Debug\net6.0\Ibanity_openssl_directory_parser.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Bureau\dev\Ibanity_openssl_directory_parser\Ibanity_openssl_directory_parser\obj\Debug\net6.0\ref\Ibanity_openssl_directory_parser.dll
