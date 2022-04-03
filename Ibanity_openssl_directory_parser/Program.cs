@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Diagnostics;
+
 String rsaKey = "genrsa -aes256 -out private_key.pem 2048";
 
 
@@ -18,7 +20,8 @@ while(!correctAns)
 }
     if(ansRsaKey == "y")
     {
-        
+    
+    Process.Start("C:/Program Files/Git/usr/bin/openssl.exe", rsaKey);
     } 
 
 
@@ -34,7 +37,7 @@ string folderLaction = Console.ReadLine();
 
 string formated;
 
-Console.WriteLine(formated);
+//Console.WriteLine(formated);
 
 //Step 1 generate the rsaKey
 
