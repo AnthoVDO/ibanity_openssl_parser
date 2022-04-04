@@ -6,6 +6,12 @@ String rsaKey = "genrsa -aes256 -out private_key.pem 2048";
 
 
 Console.WriteLine("Starting");
+
+//Select folder
+Console.WriteLine("Please enter a folder path: ");
+string folderPath = Console.ReadLine();
+
+//Check for Rsa key
 Console.WriteLine("Do you want to generate an rsa key (step1)? y/n: ");
 
 string ansRsaKey = "";
@@ -17,10 +23,13 @@ while(!correctAns)
     {
         correctAns = true;
     }
+    else
+    {
+        Console.WriteLine("You need to answer correctly");
+    }
 }
     if(ansRsaKey == "y")
     {
-    
     Process.Start("C:/Program Files/Git/usr/bin/openssl.exe", rsaKey);
     } 
 
